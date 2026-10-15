@@ -1,5 +1,7 @@
 # My-Home-Lab
 Home Lab Detail AI for learning
+![Uploading image.png…]()
+
 # Quy trình xây dựng project với Antigravity + Matt Pocock Skills + Tokenometer + RTK
 
 > **Mục tiêu:** Ý tưởng → thiết kế Skills & Rules → review → sửa → dự trù chi phí → người dùng duyệt → tối ưu prompt & terminal → review lần hai → người dùng duyệt → khởi tạo.
