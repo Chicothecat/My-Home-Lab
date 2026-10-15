@@ -1,6 +1,8 @@
 # My-Home-Lab
 Home Lab Detail AI for learning
+
 ![Uploading image.png…]()
+
 
 # Quy trình xây dựng project với Antigravity + Matt Pocock Skills + Tokenometer + RTK
 
